@@ -1,10 +1,9 @@
 ## Summary
 This is a simple information retrieval system that ranks the documents based on the relevant words that are provided 
-from the user in the search query. tf-idf, short for term-frequency-inverse document frequency, is the formula used to calculate
-the imporance of a word is to a document in the collection
+from the user in the search query. Tf-idf, short for term-frequency-inverse document frequency, is the formula used for our project  to calculate the imporance of each word to its document in the collection.
 
 ## Features
-Below are the functionalities that were implemented in the appilication.
+Below is a list of functionalities that were implemented in the appilication.
 
 1.Loading in all the text document information from all the files. A set of files from Open American National Corpus is used for testing in this assignment.
 
