@@ -1,7 +1,6 @@
-# Information-Retrieval-System-AJP-
 ## Summary
-A simple information retrieval system that ranks the documents based on the relevant words that are found 
-from the user search query. tf-idf, short for term-frequency-inverse document frequency, is the formula used to calculate
+This is a simple information retrieval system that ranks the documents based on the relevant words that are provided 
+from the user in the search query. tf-idf, short for term-frequency-inverse document frequency, is the formula used to calculate
 the imporance of a word is to a document in the collection
 
 ## Features
