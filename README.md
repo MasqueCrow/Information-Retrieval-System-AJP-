@@ -16,3 +16,6 @@ phase.
 For example if user enters query term, “Singapore attraction” then the document will have a td-idf score which is the sum of td-idf of Singapore + td-idf of attraction
 
 4.Display the top 10 query search documents with the score information. To make use of Comparable interface to do sorting
+
+## Application Interface
+![Application Interface](search_engine_app.PNG)
